@@ -31,4 +31,5 @@ body {
     /*grid-area: <grid-row-start> / <grid-column-start> / <grid-row-end> / <grid-column-end>*/
     /*grid-area: 2 / 2/ 4 / 4;*/
     /* add names to lines using the below */
+    grid-area: footer-start / 1 / footer-end / 4
 }
